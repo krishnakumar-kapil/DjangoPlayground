@@ -1,0 +1,8 @@
+
+mysite directory doesn't matter in terms of a name.
+
+
+python manage.py runserver 
+defaults to  http://127.0.0.1:8000/ 
+
+
